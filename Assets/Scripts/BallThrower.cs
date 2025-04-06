@@ -95,8 +95,6 @@ public class BallThrower : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            autoSpeedValue = speedSlider.value;
-            ThrowBall();
             ResetState();
         }
     }

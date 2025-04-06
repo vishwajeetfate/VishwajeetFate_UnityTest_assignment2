@@ -1554,7 +1554,7 @@ MonoBehaviour:
   leftArmSpawnPoint: {fileID: 2128875817}
   rightArmSpawnPoint: {fileID: 1727646385}
   bounceTarget: {fileID: 1527188488}
-  throwPowerMultiplier: 0.5
+  throwPowerMultiplier: 1
   throwDelay: 0.5
   isSpin: 0
   isLeftArm: 0
